@@ -1,5 +1,3 @@
-# Java-PlayGround
-
 # JavaVault
 
 A collection of Java programs I’ve written while learning and practicing core Java concepts.  
